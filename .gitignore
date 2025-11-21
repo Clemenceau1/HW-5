@@ -1,0 +1,10 @@
+﻿.venv/
+hw5-env/
+tf-env/
+tf/
+.ipynb_checkpoints/
+*.pkl
+*.h5
+*.tsv
+*.html
+*.pdf
